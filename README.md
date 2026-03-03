@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/88c54a54-866d-44ad-8fa2-e50090c723b9" /> Hello! Nice to meet you!
+ <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/88c54a54-866d-44ad-8fa2-e50090c723b9" /> Hello! Nice to meet you!
  
